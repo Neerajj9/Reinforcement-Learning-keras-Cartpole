@@ -1,5 +1,5 @@
 # Reinforcement-Learning
-A simple demonstration of reinforcement learning using a Neural Network model to play the Cartpole game (Cartpole).
+A simple demonstration of reinforcement learning using a Neural Network model to play the Cartpole game .
 
 Reinforcement learning is implemented wherein a Neural Network Model learns to play the Cartpole game and makes decisions regarding the next move depending upon the information of the current game scenario it got from the previous move .The model was initially trained on random moves and then trained on calculated risk moves .
 
